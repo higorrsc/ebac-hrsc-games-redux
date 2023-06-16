@@ -1,5 +1,6 @@
-import Produto from '../components/Produto'
-import { useGetJogosQuery } from '../services/api'
+import React from 'react'
+import Produto from '../../components/Produto'
+import { useGetJogosQuery } from '../../services/api'
 
 import * as S from './styles'
 
